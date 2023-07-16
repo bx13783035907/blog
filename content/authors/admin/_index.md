@@ -1,12 +1,11 @@
 ---
 # Display name
-title: Alice Bighetti (吳恩達)
-
+title: 冯宝贤
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 数据科学家
+role: 复几何专家、领军人物、2038年fields奖得主
 
 # Status emoji
 status:
@@ -14,11 +13,11 @@ status:
 
 # Organizations/Affiliations
 organizations:
-  - name: 腾讯
+  - name: 首都师范大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 我最牛b！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
 
 #interests:
 #- Artificial Intelligence
@@ -26,10 +25,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #- Information Retrieval
 
 #education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
+courses:
+  - course: 复几何PhD
+    institution: Stanford University
+    year: 2012
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2009
