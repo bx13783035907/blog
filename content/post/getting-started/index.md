@@ -30,7 +30,7 @@ image:
 
 authors:
   - admin
-  - 美杨
+  - 沸羊羊
 
 tags:
   - Academic
